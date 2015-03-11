@@ -1,0 +1,6 @@
+C:\Users\Xitsundzuxo\Documents\Visual Studio 2013\Projects\SliqeSite\SliqeSite\bin\SliqeSite.dll.config
+C:\Users\Xitsundzuxo\Documents\Visual Studio 2013\Projects\SliqeSite\SliqeSite\bin\SliqeSite.dll
+C:\Users\Xitsundzuxo\Documents\Visual Studio 2013\Projects\SliqeSite\SliqeSite\bin\SliqeSite.pdb
+C:\Users\Xitsundzuxo\Documents\Visual Studio 2013\Projects\SliqeSite\SliqeSite\obj\Release\SliqeSite.csprojResolveAssemblyReference.cache
+C:\Users\Xitsundzuxo\Documents\Visual Studio 2013\Projects\SliqeSite\SliqeSite\obj\Release\SliqeSite.dll
+C:\Users\Xitsundzuxo\Documents\Visual Studio 2013\Projects\SliqeSite\SliqeSite\obj\Release\SliqeSite.pdb

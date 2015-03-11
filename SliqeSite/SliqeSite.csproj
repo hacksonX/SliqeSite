@@ -57,7 +57,75 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\SliqeSite.dll" />
+    <Content Include="bin\SliqeSite.pdb" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\ie\backgroundsize.min.htc" />
+    <Content Include="css\ie\html5shiv.js" />
+    <Content Include="css\ie\PIE.htc" />
+    <Content Include="css\ie\v8.css" />
+    <Content Include="css\images\bck-overlay.png" />
+    <Content Include="css\images\overlay.png" />
+    <Content Include="css\skel.css" />
+    <Content Include="css\style-large.css" />
+    <Content Include="css\style-medium.css" />
+    <Content Include="css\style-small.css" />
+    <Content Include="css\style-xlarge.css" />
+    <Content Include="css\style-xsmall.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\stylesSlideShow.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="images\avatar.jpg" />
+    <Content Include="images\avatar.png" />
+    <Content Include="images\bck-avatar.jpg" />
+    <Content Include="images\bck-bg.jpg" />
+    <Content Include="images\bg.png" />
+    <Content Include="images\DJ Sliqe Logo_2.jpg" />
+    <Content Include="images\DoLikeIDoRemixCompetition.jpg" />
+    <Content Include="images\fulls\01.jpg" />
+    <Content Include="images\fulls\02.jpg" />
+    <Content Include="images\fulls\03.jpg" />
+    <Content Include="images\fulls\04.jpg" />
+    <Content Include="images\fulls\05.jpg" />
+    <Content Include="images\fulls\06.jpg" />
+    <Content Include="images\MrDoLikeIDoTour-FreshByInstinct.jpg" />
+    <Content Include="images\slide\1.jpg" />
+    <Content Include="images\slide\2.jpg" />
+    <Content Include="images\slide\3.jpg" />
+    <Content Include="images\slide\4.jpg" />
+    <Content Include="images\thumbs\01.jpg" />
+    <Content Include="images\thumbs\02.jpg" />
+    <Content Include="images\thumbs\03.jpg" />
+    <Content Include="images\thumbs\04.jpg" />
+    <Content Include="images\thumbs\05.jpg" />
+    <Content Include="images\thumbs\06.jpg" />
+    <Content Include="images\thumbs\DoLikeIDoRemixCompetition.jpg" />
+    <Content Include="javascripts\all.js" />
+    <Content Include="js\init.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.poptrox.min.js" />
+    <Content Include="js\jssor.slider.mini.js" />
+    <Content Include="js\script.js" />
+    <Content Include="js\skel.min.js" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Release\SliqeSite.csprojResolveAssemblyReference.cache" />
+    <None Include="App_Data\PublishProfiles\saveOnDisk.pubxml" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
     <None Include="Properties\PublishProfiles\UpToSliqe.pubxml" />
+    <Content Include="sass\ie\v8.scss" />
+    <Content Include="sass\style-large.scss" />
+    <Content Include="sass\style-medium.scss" />
+    <Content Include="sass\style-small.scss" />
+    <Content Include="sass\style-xlarge.scss" />
+    <Content Include="sass\style-xsmall.scss" />
+    <Content Include="sass\style.scss" />
+    <Content Include="sass\_mixins.scss" />
+    <Content Include="sass\_vars.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -67,6 +135,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="media\coverArt.jpeg" />
+    <Content Include="media\DJ Sliqe - Do Like I Do Remix %28feat. Riky Rick, L-Tido, Kwesta, Reason, Flabba &amp; Nadia Nakai%29 [E.mp3" />
+    <Content Include="obj\Release\SliqeSite.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\SliqeSite.dll" />
+    <Content Include="obj\Release\SliqeSite.pdb" />
+    <Content Include="stylesheets\font-awesome.css" />
+    <Content Include="stylesheets\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -74,7 +149,18 @@
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="fonts\css\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\Release\TempPE\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
